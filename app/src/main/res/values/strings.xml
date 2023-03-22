@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SealedClassesCompose</string>
+    <string name="error_network">NETWORK ERROR</string>
+    <string name="other_error">OTHER ERROR</string>
+    <string name="error_input_empty">INPUT EMPTY</string>
+</resources>
